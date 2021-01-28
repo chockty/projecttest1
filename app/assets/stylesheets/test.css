@@ -1,0 +1,15 @@
+.main{
+  width:500px;
+  margin-left:50px;
+}
+body{
+  background-color:#9B9B9B;
+}
+
+.multiple-items {
+  width: 500px;
+}
+
+.a {
+ width: calc(500px/3);
+}
